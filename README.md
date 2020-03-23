@@ -2,7 +2,7 @@
 First-Person 2D Shooter Game Using Turing 4.1.1
 
 # Dependencies
-Turing 4.1.1
+[Turing 4.1.1](http://compsci.ca/holtsoft/)
 
 # Instructions
 * Make sure all the dependencies are installed.
