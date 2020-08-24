@@ -15,11 +15,9 @@ This project was created as part of my final assignment in *Grade 10 Introductio
 
 ## Installation
 * Make sure all the dependencies are installed
-
 * Download the files
   * Option 1: 🍴 Fork this repository!
   * Option 2: 🧪 Clone the repository to your local machine using https://github.com/sagarpatel211/ICS2O1-Project.git!
-
 * Run *Final Turing Game Project.t* in Turing 4.1.1 to run the program
 * Use the mouse to point, arrow keys to move your player, and spacebar to shoot, and r to reload **only** when your cartridge is empty
 
