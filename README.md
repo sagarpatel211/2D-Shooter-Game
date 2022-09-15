@@ -13,7 +13,6 @@ This project was created as part of my final assignment in *Grade 10 Introductio
 |-------------|-------------|
 | <img src="1.png" width="450"> | <img src="2.png" width="450"> |
 | Upgrade    | Level 3    |
-|-------------|-------------|
 | <img src="3.png" width="450"> | <img src="4.png" width="450"> |
 
 ## Dependencies
