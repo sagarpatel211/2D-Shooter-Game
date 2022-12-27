@@ -1,5 +1,5 @@
-# ICS2O-Project
-This project was created as part of my final assignment in *Grade 10 Introduction to Computer Science*. The project was a first-person 2D shooter game using Turing 4.1.1!
+# Turing Shooter Game
+The project is a first-person 2D shooter game using Turing 4.1.1!
 
 
 ## Table of Contents
