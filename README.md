@@ -1,5 +1,5 @@
 # Turing Shooter Game
-The project is a first-person 2D shooter game using Turing 4.1.1!
+The project is a 2D survival shooter game using Turing 4.1.1!
 
 
 ## Table of Contents
